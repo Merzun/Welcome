@@ -35,15 +35,3 @@
 </p>
 
 ---
-
-### 🏆 My GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Merzun&theme=midnight-purple&show_icons=true&hide_border=true&bg_color=00000000" alt="Merzun's GitHub Stats">
-</p>
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Merzun&theme=midnight-purple&hide_border=true&background=FFFFFF00" alt="Merzun's GitHub Streak">
-  </a>
-</p>
